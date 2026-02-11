@@ -1,3 +1,17 @@
+<h1 align="center"><b>Hola motherfucker BRAZO DE 35!!!, I'm Ignacio </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+### 👨🏻‍💻 &nbsp;Conoceme
+
+💻  &nbsp;Trabajo constantemente en fortalecer mis habilidades con HTML, CSS y JavaScript, desarrollando proyectos que combinan diseño y rendimiento.
+
+🧠  &nbsp;Estoy enfocado en seguir aprendiendo sobre UI/UX, frontend y buenas prácticas para construir productos digitales de buen nivel.
+
+🛠️   &nbsp;Utilizo herramientas como Figma para convertir ideas en prototipos claros y profesionales.
+
+
+🚀  &nbsp; Me motiva crecer como desarrollador, enfrentar nuevos retos y mejorar en cada proyecto.
+
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
@@ -58,14 +72,30 @@
   ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
   ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
   ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
-
-
-
-
-
 </p>
 
 <br>
 <br>
+
+### 📊 Resumen de actividad en GitHub
+
+ <div align=center>
+  
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Juan-Miguel-1928&theme=github_dark)
+
+ </div>
+
+ 
+## 📊 Estadísticas de GitHub
+
+<div align="center">
+
+**Contribuciones Totales** | **Racha Actual** | **Racha Más Larga**
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Juan-Miguel-1928&theme=dark)
+
+</div>
+  
+</div>
 
 -----
